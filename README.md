@@ -1,28 +1,35 @@
 # Student Management System (Java GUI + Data Structures)
 
 ## 📌 Overview
-A **Java-based student management system** for organizing academic records including registration, grades, and attendance.  
-The project demonstrates **data structures and algorithms** in a real-world application with a **GUI interface**.  
-
+This project is a Python-based student records management system that integrates **data structures and algorithms (DSA)** with a **graphical user interface (GUI)**. It enables managing student enrollment, grades, attendance, and reports, while demonstrating core computer science concepts like linked lists, stacks, queues, binary search trees, sorting/searching, greedy algorithms, and dynamic programming.
 ---
 
 ## 🚀 Features
-- **Registration** – add, edit, and remove students  
-- **Grade Tracking** – undo operations using Stacks  
-- **Attendance Monitoring** – handled with Queues (FIFO)  
-- **Dynamic Enrollment** – implemented with Linked Lists  
-- **Efficient Search** – Binary Search Tree for record lookups  
-- **GUI Interface** – Java Swing + Python Tkinter prototype  
 
+- **Core Logic (`student_records.py`)**
+  - Manage student details, subject enrollments, grades, GPA calculation, and attendance logs.
+  - Implements multiple data structures:
+    - Linked List for subject enrollment  
+    - Stack for grade history  
+    - Queue for attendance tracking  
+    - Binary Search Tree for student indexing and search  
+  - Includes algorithms: Merge Sort, Quick Sort, Binary Search.  
+  - Greedy algorithm for selecting class representatives.  
+  - Dynamic Programming for timetable optimization (weighted interval scheduling).
+
+- **GUI Application (`student_records_GUI.py`)**
+  - Tkinter-based interface for easy interaction.  
+  - Provides tabs for Students, Academics, Reports, and Bonus features.  
+  - Add, view, and update student records through forms and buttons.  
+  - Generate academic reports, optimize timetables, and select class representatives.
 ---
 
-## 🛠️ Technologies Used
-- **Languages:** Java (main), Python (prototype)  
-- **Concepts:** Stacks, Queues, Linked Lists, BST, OOP Principles  
-- **Tools:** Java Swing, Tkinter, VS Code / Eclipse  
+## Requirements
+
+- Python 3.9+  
+- Tkinter (pre-installed with most Python distributions)
 
 ---
-
 ## 🧑‍💻 How to Run
 1. Clone the repository:  
    ```bash
