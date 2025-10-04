@@ -1,3 +1,4 @@
+
 # Student Management System (Java GUI + Data Structures)
 
 ## 📌 Overview
@@ -23,6 +24,7 @@ This project is a Python-based student records management system that integrates
   - Provides tabs for Students, Academics, Reports, and Bonus features.  
   - Add, view, and update student records through forms and buttons.  
   - Generate academic reports, optimize timetables, and select class representatives.
+
 ---
 
 ## 📦 Requirements
@@ -31,10 +33,31 @@ This project is a Python-based student records management system that integrates
 - Tkinter (pre-installed with most Python distributions)
 
 ---
-## 🧑‍💻 How to Run
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/tariqfromsudan/student-management-system.git
-2. Open in IDE (Eclipse / VS Code).
 
-3. Compile and run main Java file.
+## 🧑‍💻 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/student-management-system.git
+   cd student-management-system
+   ````
+2. Run the GUI app:
+
+   ```bash
+   python student_records_GUI.py
+   ```
+3. Data is stored and retrieved from `data.json` and `catalog.json`.
+
+```
+
+
+```
+
+student-management-system/
+├── student_records.py
+├── student_records_GUI.py
+├── README.md
+├── data.json
+└── catalog.json
+
+```
+
