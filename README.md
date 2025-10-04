@@ -45,7 +45,6 @@ This project is a Python-based student records management system that integrates
    ```bash
    python student_records_GUI.py
    ```
-3. Data is stored and retrieved from `data.json` and `catalog.json`.
 
 
 ```bash
