@@ -47,10 +47,8 @@ This project is a Python-based student records management system that integrates
    ```
 3. Data is stored and retrieved from `data.json` and `catalog.json`.
 
-```
 
-
-```
+```bash
 
 student-management-system/
 ├── student_records.py
@@ -59,5 +57,4 @@ student-management-system/
 ├── data.json
 └── catalog.json
 
-```
 
