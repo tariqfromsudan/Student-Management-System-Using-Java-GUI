@@ -2,6 +2,7 @@
 
 ## 📌 Overview
 This project is a Python-based student records management system that integrates **data structures and algorithms (DSA)** with a **graphical user interface (GUI)**. It enables managing student enrollment, grades, attendance, and reports, while demonstrating core computer science concepts like linked lists, stacks, queues, binary search trees, sorting/searching, greedy algorithms, and dynamic programming.
+
 ---
 
 ## 🚀 Features
@@ -24,7 +25,7 @@ This project is a Python-based student records management system that integrates
   - Generate academic reports, optimize timetables, and select class representatives.
 ---
 
-## Requirements
+## 📦 Requirements
 
 - Python 3.9+  
 - Tkinter (pre-installed with most Python distributions)
