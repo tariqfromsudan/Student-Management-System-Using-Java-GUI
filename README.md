@@ -46,9 +46,8 @@ This project is a Python-based student records management system that integrates
    python student_records_GUI.py
    ```
 
-
+## 📂 Project Structure
 ```bash
-
 student-management-system/
 ├── student_records.py
 ├── student_records_GUI.py
