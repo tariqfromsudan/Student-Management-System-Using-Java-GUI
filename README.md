@@ -54,7 +54,6 @@ student-management-system/
 ├── student_records.py
 ├── student_records_GUI.py
 ├── README.md
-├── data.json
-└── catalog.json
+└── Documentation ├── Student Management System Report
 
 
